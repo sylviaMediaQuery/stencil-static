@@ -1,0 +1,16 @@
+{
+  "entries": [
+    "./components/batch/batch.js",
+    "./components/cart/cart.js",
+    "./components/elements/loading-spinner.js",
+    "./components/elements/notification-message.js",
+    "./components/login/userLogin.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "2.18.0",
+    "typescriptVersion": "4.7.4"
+  },
+  "collections": [],
+  "bundles": []
+}
